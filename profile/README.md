@@ -33,8 +33,8 @@
      基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
      -  基于人脸时域变化特征提取与学习的抑郁、性格分析，基于个体人脸反应生成网络的性格分析
          - **Self-supervised Learning of Person-specific Facial Dynamics for Automatic Personality Recognition (IEEE TAFC 2021)** [[paper](https://ieeexplore.ieee.org/document/9373959)]
-         - **Spectral Representation of Behaviour Primitives for Depression Analysis (IEEE TAFC 2020)** [[paper](https://ieeexplore.ieee.org/document/8976305)] 
-         - **Personality Recognition by Modelling Person-specific Cognitive Processes using Graph Representation (ACM MM 2021)** [[paper](https://dl.acm.org/doi/10.1145/3474085.3475460)] 
+         - **Spectral Representation of Behaviour Primitives for Depression Analysis (IEEE TAFC 2020)** [[paper](https://ieeexplore.ieee.org/document/8976305)] [[code](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned)]
+         - **Personality Recognition by Modelling Person-specific Cognitive Processes using Graph Representation (ACM MM 2021)** [[paper](https://dl.acm.org/doi/10.1145/3474085.3475460)] [[code](https://github.com/SSYSteve/Learning-Graph-Representation-of-Person-specific-Cognitive-Processes-from-Audio-visual-Behaviours-fo)]
      - 三维人脸点云识别与表情
         - **Orthogonalization Guided Feature Fusion Network for Multimodal 2D+3D Facial Expression Recognition (IEEE TMM 2021)** [[paper](https://ieeexplore.ieee.org/document/9115253)]
      - 二维人脸表情识别与分析、合成
