@@ -50,7 +50,7 @@
      - 基于图像翻译的人脸属性编辑
        - **AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation (IEEE TMM 2022)** [[paper](https://ieeexplore.ieee.org/document/9541089)]
        - **Translate the Facial Regions You Like Using Self-Adaptive Region Translation (AAAI 2021)** [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1663.LiuW.pdf)]
-       - **GazeFlow: Gaze Redirection with Normalizing Flows (IJCNN 2021)** [[paper](https://ieeexplore.ieee.org/abstract/document/9533913)]
+       - **GazeFlow: Gaze Redirection with Normalizing Flows (IJCNN 2021)** [[paper](https://ieeexplore.ieee.org/abstract/document/9533913)][[code](https://github.com/CVI-SZU/GazeFlow)] [[demo](https://github.com/ackness/GazeFlow_demo)]
        - **Gated SwitchGAN for multi-domain facial image translation (IEEE TMM 2021)** [[paper](https://arxiv.org/pdf/2111.14096)]
        - **Deep Feature Consistent Variational Autoencoder (WACV 2017)** [[paper](https://arxiv.org/pdf/1610.00291.pdf)] [[project](https://houxianxu.github.io/assets/project/dfcvae)] [[code](https://github.com/houxianxu/DFC-VAE)]
      - 基于预训练模型的人脸属性编辑
