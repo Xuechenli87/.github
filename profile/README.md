@@ -5,7 +5,7 @@
        - 新型网络架构、特征提取模块提升CNN 性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。
          - **WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification (IEEE TIP 2021)** [[paper](https://ieeexplore.ieee.org/document/9508165)]         
      	 - **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
-     	 - **Neuron segmentation using 3D wavelet integrated encoder–decoder network (Bioinformatics) 38(3), 2022, 809–817** [[paper]https://academic.oup.com/bioinformatics/article/38/3/809/6396862?login=true][[code]https://github.com/LiQiufu/3DWaveUNet]
+     	 - **Neuron segmentation using 3D wavelet integrated encoder–decoder network (Bioinformatics) 38(3), 2022, 809–817** [[paper](https://academic.oup.com/bioinformatics/article/38/3/809/6396862?login=true)][[code](https://github.com/LiQiufu/3DWaveUNet)]
        - 结合手工特征，引导网络早期的快速收敛。
          - **Adaptive Weighting of Hand-crafted Feature Losses for Facial Expression Recognition (IEEE TCYB 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCYB2019.pdf)] [[project](https://wcxie.github.io/Weicheng-Xie/PaperProject/AWHFL_TCYB2019/)]
        - 设计了忆阻模糊深度学习系统，以在低精度的设备条件下提高图像识别精度。以及基于忆阻的量化深度学习网络结构，从而加快训练速度和减小存储空间。
@@ -64,7 +64,7 @@
   5. 医学图像智能分析
 
      - 大脑MRI图像肿瘤区域分割、牙齿CT图像种牙位置预测、多尺度卷积网络的X光图像肺结节识别，眼底图像/视网膜OCT图像疾病检测；
-     - **3D neuron reconstruction in tangled neuronal image with deep networks (IEEE TMI 2020)** [[paper]https://ieeexplore.ieee.org/abstract/document/8758392/]
+     - **3D neuron reconstruction in tangled neuronal image with deep networks (IEEE TMI 2020)** [[paper](https://ieeexplore.ieee.org/abstract/document/8758392/)]
 
      - B超图像甲状腺结节分割与良恶性分类、鼻内窥镜图像腺样体肥大检测、消化道内窥镜图像息肉检测与分析；
 
