@@ -64,7 +64,7 @@
   5. 医学图像智能分析
 
      - 大脑MRI图像肿瘤区域分割、牙齿CT图像种牙位置预测、多尺度卷积网络的X光图像肺结节识别，眼底图像/视网膜OCT图像疾病检测；
-     - **3D neuron reconstruction in tangled neuronal image with deep networks (IEEE TMI 2020)** [[paper](https://ieeexplore.ieee.org/abstract/document/8758392/)]
+       - **3D neuron reconstruction in tangled neuronal image with deep networks (IEEE TMI 2020)** [[paper](https://ieeexplore.ieee.org/abstract/document/8758392/)]
 
      - B超图像甲状腺结节分割与良恶性分类、鼻内窥镜图像腺样体肥大检测、消化道内窥镜图像息肉检测与分析；
 
