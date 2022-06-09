@@ -63,9 +63,13 @@
 
   5. 医学图像智能分析
 
-     - 大脑MRI图像肿瘤区域分割、牙齿CT图像种牙位置预测、多尺度卷积网络的X光图像肺结节识别，眼底图像/视网膜OCT图像疾病检测；
-       - **3D neuron reconstruction in tangled neuronal image with deep networks (IEEE TMI 2020)** [[paper](https://ieeexplore.ieee.org/abstract/document/8758392/)]
+     - 细胞检测、分割与分类
+       - **Sample hardness based gradient loss for long-tailed cervical cell detection (MICCAI 2022)** 
+       - **Deep Cross Residual Network for HEp2 Cell Staining Pattern Classification (Pattern Recognition 2018)**[[paper](https://www.sciencedirect.com/science/article/pii/S0031320318301705)]
+       - **HEp-2 Specimen Image Segmentation and Classification Using Very Deep Fully Convolutional Network (IEEE TMI 2017)**[[paper](https://ieeexplore.ieee.org/document/7862234/citations#citations)]
 
      - B超图像甲状腺结节分割与良恶性分类、鼻内窥镜图像腺样体肥大检测、消化道内窥镜图像息肉检测与分析；
 
      - 胃肠组织病理全切片WSI图像肿瘤判读，宫颈TCT细胞病理全切片WSI图像判读
+
+
